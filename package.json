@@ -1,0 +1,19 @@
+{
+  "name": "tin-test-sdk",
+  "version": "1.0.1",
+  "description": "Publish SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tin0712/test-sdk.git"
+  },
+  "author": "Tin & Dat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tin0712/test-sdk/issues"
+  },
+  "homepage": "https://github.com/Tin0712/test-sdk#readme"
+}
